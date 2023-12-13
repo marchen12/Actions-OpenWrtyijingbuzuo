@@ -5,8 +5,7 @@
 # Youtube Channel: https://goo.gl/fvkdwm 
 #=================================================
 
-name: Build_Redmi_AC2100
-
+name: redmi_ac2100
  Add a button to trigger the workflow
 on: 
   repository_dispatch:
